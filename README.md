@@ -4,13 +4,22 @@
   <h2 style="color: #ff69b4;
              animation: float 3s ease-in-out infinite;
              position: relative">
-    ⚠️ 注意！这个开发者
+    ⚠️ 这个开发者
     <span style="position: absolute;
                 font-size: 0.6em;
                 animation: bounce 0.8s infinite">
       超爱摸鱼 🐟
     </span>
-  </h2>
+
+  <div style="position:absolute; 
+              bottom:-30px; 
+              right:-20px;
+              font-size:24px;
+              animation: bounce 1s infinite">
+    🐾
+  </div>
+</div>
+
 
   <!-- 动态标题 -->
   <h1 style="color: #ff4757; font-family: 'Comic Neue', cursive; 
